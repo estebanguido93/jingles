@@ -1,0 +1,100 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000;
+    color:#2AEA49;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+}
+.autocomplete {
+    position: relative;
+    display: inline-block;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+h1, h2 {
+    margin: 0px;
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 2rem;
+    padding-bottom: 50px;
+}
+
+form {
+    width: 100%;
+}
+
+#inpJingle {
+    width: 100%;        
+    font-size: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px 4px 0px 0px;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: #f1f1f1;
+    width: 100%;
+}
+#inpJingle:focus {
+    outline: none !important;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    #inpJingle {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
+
+.autocomplete-items {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    top: 100%;
+    left: 0;
+    right: 0;
+    color:black;
+}
+
+.autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff; 
+}
+
+.autocomplete-items div:hover {
+    background-color: #2AEA49; 
+}
+
+.autocomplete-active {
+    background-color: DodgerBlue !important; 
+    color: #ffffff; 
+}
