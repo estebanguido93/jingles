@@ -57,7 +57,7 @@ function autocomplete(inp, arr) {
     }
 
     function getName(result) {
-        return result.nombreJingle + ' - ' + result.nombreReal + ' - ' + result.autorReal;
+        return `${result.nombreJingle} - ${result.nombreReal} (${result.autorReal})`;
     }
 
     function cleanText(text) {
@@ -114,8 +114,8 @@ function autocomplete(inp, arr) {
 var courses = [
     {
         id: 1,
-        nombreReal: "Ataque 77",
-        autorReal: "Western",
+        nombreReal: "Western",
+        autorReal: "Ataque 77",
         nombreJingle: "Devaluas",
         link: "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=157s"
     },
@@ -147,3 +147,15 @@ var courses = [
 ];
 
 autocomplete(document.getElementById("inpJingle"), courses);
+
+document.addEventListener("DOMContentLoaded", function () {
+    const h1Element = document.getElementsByTagName("h1")[0];
+    setTimeout(function () {
+        h1Element.classList.add("visible");
+    }, 50);
+
+    const h2Element = document.getElementsByTagName("h2")[0];
+    setTimeout(function () {
+        h2Element.classList.add("visible");
+    }, 450);
+});
