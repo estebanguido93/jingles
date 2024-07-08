@@ -1376,5 +1376,140 @@ var jingles = [
         "autorReal": "Machito Ponce",
         "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=2099s",
         "Segundos": ""
+    },
+    {
+        "id": 154,
+        "nombreJingle": "No me arrepiento",
+        "autorJingle": "Anónimo",
+        "nombreReal": "Descontrolado",
+        "autorReal": "Jóvenes Pordioseros",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=169s",
+        "Segundos": ""
+    },
+    {
+        "id": 155,
+        "nombreJingle": "Liberland",
+        "autorJingle": "Blasito",
+        "nombreReal": "Mírenla",
+        "autorReal": "Ciro y los Persas",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=292s",
+        "Segundos": ""
+    },
+    {
+        "id": 156,
+        "nombreJingle": "Saquen a petovelo, como gano Javier",
+        "autorJingle": "Anónimo",
+        "nombreReal": "El Balneario de los Doctores Crotos",
+        "autorReal": "Los Piojos",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=444s",
+        "Segundos": ""
+    },
+    {
+        "id": 157,
+        "nombreJingle": "DesCONANxion",
+        "autorJingle": "Octavio Gencarelli",
+        "nombreReal": "Desconexión Sideral",
+        "autorReal": "Bersuit Vergarabat",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=563s",
+        "Segundos": ""
+    },
+    {
+        "id": 158,
+        "nombreJingle": "El naufragio liberal",
+        "autorJingle": "Cortoplacista",
+        "nombreReal": "Canción de Juan",
+        "autorReal": "Bersuit Vergarabat",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=666s",
+        "Segundos": ""
+    },
+    {
+        "id": 159,
+        "nombreJingle": "Toco y Me Voy",
+        "autorJingle": "Anónimo",
+        "nombreReal": "Toco y Me Voy",
+        "autorReal": "Bersuit Vergarabat",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1077s",
+        "Segundos": ""
+    },
+    {
+        "id": 160,
+        "nombreJingle": "Yo era feliz en mi pais",
+        "autorJingle": "Anónimo",
+        "nombreReal": "Afiches",
+        "autorReal": "Goyeneche",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1231s",
+        "Segundos": ""
+    },
+    {
+        "id": 161,
+        "nombreJingle": "Cambalache",
+        "autorJingle": "Juan Stagno",
+        "nombreReal": "Cambalache",
+        "autorReal": "Julio Sosa",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1357s",
+        "Segundos": ""
+    },
+    {
+        "id": 162,
+        "nombreJingle": "Milei se va",
+        "autorJingle": "Ópera Carmen",
+        "nombreReal": "Habanera",
+        "autorReal": "Georges Bizet",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1576s",
+        "Segundos": ""
+    },
+    {
+        "id": 163,
+        "nombreJingle": "La Jueza Barú Budú Budía",
+        "autorJingle": "Anónimo",
+        "nombreReal": "La Jueza Barú Budú Budía",
+        "autorReal": "Tato Bores",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1691s",
+        "Segundos": ""
+    },
+    {
+        "id": 164,
+        "nombreJingle": "Petri sentado en coto",
+        "autorJingle": "El Negro Andante",
+        "nombreReal": "Me Convierto en Marciano",
+        "autorReal": "Molotov",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1723s",
+        "Segundos": ""
+    },
+    {
+        "id": 165,
+        "nombreJingle": "Y si hacemos un video",
+        "autorJingle": "Anónimo",
+        "nombreReal": "Do You Want to Build a Snowman",
+        "autorReal": "Frozen",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1820s",
+        "Segundos": ""
+    },
+    {
+        "id": 166,
+        "nombreJingle": "Habia una vez un virgo",
+        "autorJingle": "Gelakids",
+        "nombreReal": "Había una vez un Circo",
+        "autorReal": "Gaby, Fofó y Miliki",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1935s",
+        "Segundos": ""
+    },
+    {
+        "id": 167,
+        "nombreJingle": "Adorni",
+        "autorJingle": "Mariu Serrano",
+        "nombreReal": "Toxic",
+        "autorReal": "Britney Spears",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=2023s",
+        "Segundos": ""
+    },
+    {
+        "id": 168,
+        "nombreJingle": "Un dia a Argentina va a venir Milei",
+        "autorJingle": "Pedrillom",
+        "nombreReal": "Buenos Tiempos",
+        "autorReal": "Dillom",
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=2219s",
+        "Segundos": ""
     }
 ]
