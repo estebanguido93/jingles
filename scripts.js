@@ -92,6 +92,25 @@ function autocomplete(inp, arr) {
         }
     });
 
+    function addEventListeners(el, eventNames, handler) {
+        eventNames.forEach(eventName => el.addEventListener(eventName, handler));
+    }
+
+    addEventListeners(b, ["click", "touchstart"], function (e) {
+        inp.value = this.getElementsByTagName("input")[0].value;
+        const videoLink = this.getElementsByClassName("video-link")[0].value;
+        window.open(videoLink, '_blank');
+        closeAllLists();
+    });
+
+    document.addEventListener("click", function (e) {
+        closeAllLists(e.target);
+    });
+
+    document.addEventListener("touchstart", function (e) {
+        closeAllLists(e.target);
+    });
+
     function addActive(x) {
         if (!x) return false;
         removeActive(x);
