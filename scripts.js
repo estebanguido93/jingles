@@ -9,7 +9,7 @@ function autocomplete(inp, arr) {
         a.setAttribute("id", this.id + "autocomplete-list");
         a.setAttribute("class", "autocomplete-items");
         this.parentNode.appendChild(a);
-        let results = searchCourses(courses, val);
+        let results = searchJingles(jingles, val);
         for (i = 0; i < results.length; i++) {
             let name = getName(results[i]);
             let cleanName = cleanText(name);
@@ -37,9 +37,9 @@ function autocomplete(inp, arr) {
         return text.substring(0, index) + '<strong>' + originalText + '</strong>' + text.substring(index + searchText.length);
     }
 
-    function searchCourses(courses, searchText) {
+    function searchJingles(jingles, searchText) {
         const lowerSearchText = searchText.toLowerCase();
-        return courses.filter(course => {
+        return jingles.filter(course => {
             return (
                 course.nombreJingle.toLowerCase().includes(lowerSearchText) ||
                 course.nombreReal.toLowerCase().includes(lowerSearchText) ||
