@@ -3,7 +3,7 @@ var jingles = [
     {
         "id": 1,
         "nombreJingle": "Devaluas",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Western",
         "autorReal": "Ataque 77",
         "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=157s",
@@ -12,7 +12,7 @@ var jingles = [
     {
         "id": 2,
         "nombreJingle": "Messi esta en el banco",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Message In A Bottle",
         "autorReal": "The Police",
         "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=266s",
@@ -75,7 +75,7 @@ var jingles = [
     {
         "id": 9,
         "nombreJingle": "Nunca duerme",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Nessun dorma",
         "autorReal": "Luciano Pavarotti",
         "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1163",
@@ -120,7 +120,7 @@ var jingles = [
     {
         "id": 14,
         "nombreJingle": "Haceme un petri",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Haceme un pete",
         "autorReal": "Damas Gratis",
         "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1933",
@@ -147,7 +147,7 @@ var jingles = [
     {
         "id": 17,
         "nombreJingle": "Vote a Milei como me cago",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Vivir asi es morir de amor",
         "autorReal": "Nati Peluso",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=360s",
@@ -156,7 +156,7 @@ var jingles = [
     {
         "id": 18,
         "nombreJingle": "El jumbo bot decia que todo iba a estar bien",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "11 y 6",
         "autorReal": "Fito Paez",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=448s",
@@ -219,7 +219,7 @@ var jingles = [
     {
         "id": 25,
         "nombreJingle": "Tira para arriba el off",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Tira para arriba",
         "autorReal": "Miguel Mateos & Zas",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1290s",
@@ -228,7 +228,7 @@ var jingles = [
     {
         "id": 26,
         "nombreJingle": "A comprar un off",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "La bestia pop",
         "autorReal": "Patricio Rey y sus Redonditos de Ricota",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1405s",
@@ -237,7 +237,7 @@ var jingles = [
     {
         "id": 27,
         "nombreJingle": "El extraño de pelo raro",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "El extraño de pelo largo",
         "autorReal": "La joven guardia",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1514s",
@@ -255,7 +255,7 @@ var jingles = [
     {
         "id": 29,
         "nombreJingle": "La casta era la educacion",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Another Brick in the Wal",
         "autorReal": "",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1708s",
@@ -264,7 +264,7 @@ var jingles = [
     {
         "id": 30,
         "nombreJingle": "DNU",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Mon amour",
         "autorReal": "Slimane",
         "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1897s",
@@ -273,7 +273,7 @@ var jingles = [
     {
         "id": 31,
         "nombreJingle": "Marra, devolve la bolsa",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "La Bolsa",
         "autorReal": "La Bersuit",
         "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=90s",
@@ -291,7 +291,7 @@ var jingles = [
     {
         "id": 33,
         "nombreJingle": "Esta pirucho",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Me Gustas Mucho",
         "autorReal": "Viejas Locas",
         "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=467s",
@@ -327,7 +327,7 @@ var jingles = [
     {
         "id": 37,
         "nombreJingle": "No entiendo un carajo",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "No soy un extraño",
         "autorReal": "Charly Garcia",
         "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1053s",
@@ -408,7 +408,7 @@ var jingles = [
     {
         "id": 46,
         "nombreJingle": "A marchar junto a la UADE",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Wadu-Wadu",
         "autorReal": "Virus",
         "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=143s",
@@ -489,7 +489,7 @@ var jingles = [
     {
         "id": 55,
         "nombreJingle": "Cuando vote a Milei",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Cuando nadie me ve",
         "autorReal": "Alejandro Sanz",
         "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1674s",
@@ -543,7 +543,7 @@ var jingles = [
     {
         "id": 61,
         "nombreJingle": "El flequillo de Adorni",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Don",
         "autorReal": "Miranda",
         "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=222s",
@@ -570,7 +570,7 @@ var jingles = [
     {
         "id": 64,
         "nombreJingle": "Age of empires",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Mil horas",
         "autorReal": "Los Abuelos de la Nada",
         "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=664s",
@@ -624,7 +624,7 @@ var jingles = [
     {
         "id": 70,
         "nombreJingle": "Gracias a Karina",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Gracias a la Vida",
         "autorReal": "Violeta Parra",
         "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1660s",
@@ -642,7 +642,7 @@ var jingles = [
     {
         "id": 72,
         "nombreJingle": "No Conan no hay",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "No Woman No Cry",
         "autorReal": "Bob Marley",
         "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1926s",
@@ -678,7 +678,7 @@ var jingles = [
     {
         "id": 76,
         "nombreJingle": "Esta enojado Santi Cafiero",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Mil horas",
         "autorReal": "Los Abuelos de la Nada",
         "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2515s",
@@ -696,7 +696,7 @@ var jingles = [
     {
         "id": 78,
         "nombreJingle": "Re Loco Peluca Milei",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Loco",
         "autorReal": "Los Auténticos Decadentes",
         "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=231s",
@@ -723,7 +723,7 @@ var jingles = [
     {
         "id": 81,
         "nombreJingle": "Esa Diana Mondino",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Vencedores Vencidos",
         "autorReal": "Patricio Rey y los redonditos de ricota",
         "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=616s",
@@ -759,7 +759,7 @@ var jingles = [
     {
         "id": 85,
         "nombreJingle": "Cuanto cotiza un senador",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Believe",
         "autorReal": "Cher",
         "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1169s",
@@ -786,7 +786,7 @@ var jingles = [
     {
         "id": 88,
         "nombreJingle": "Quien va a clonar",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Quién Va A Cantar",
         "autorReal": "Rubén Rada",
         "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1620s",
@@ -795,7 +795,7 @@ var jingles = [
     {
         "id": 89,
         "nombreJingle": "Quisiera ser ingles",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Burbujas de Amor",
         "autorReal": "Juan Luis Guerra",
         "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1706s",
@@ -804,7 +804,7 @@ var jingles = [
     {
         "id": 90,
         "nombreJingle": "El presidente liberal",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Cumbiera Intelectual",
         "autorReal": "Kevin Johansen",
         "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1846s",
@@ -831,7 +831,7 @@ var jingles = [
     {
         "id": 93,
         "nombreJingle": "El ritual de la casta",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "El Ritual de Banana",
         "autorReal": "Los Pericos",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=91s",
@@ -840,7 +840,7 @@ var jingles = [
     {
         "id": 94,
         "nombreJingle": "Tu presidencia es una gira",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Tema de Piluso",
         "autorReal": "Fito Páez",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=192s",
@@ -876,7 +876,7 @@ var jingles = [
     {
         "id": 98,
         "nombreJingle": "Petri Machote",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Puto",
         "autorReal": "Molotov",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=770s",
@@ -885,7 +885,7 @@ var jingles = [
     {
         "id": 99,
         "nombreJingle": "Los metodos del Jinglero",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Los Métodos Piqueteros",
         "autorReal": "Las Manos de Filippi",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=860s",
@@ -921,7 +921,7 @@ var jingles = [
     {
         "id": 103,
         "nombreJingle": "Loco negador",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "La Luna y el Toro",
         "autorReal": "El Matador",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1435s",
@@ -939,7 +939,7 @@ var jingles = [
     {
         "id": 105,
         "nombreJingle": "Mi perrito sin cepultura",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Caraluna",
         "autorReal": "Bacilos",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1668s",
@@ -948,7 +948,7 @@ var jingles = [
     {
         "id": 106,
         "nombreJingle": "Me va a clonar",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Me Va a Extrañar",
         "autorReal": "Ricardo Montaner",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1789s",
@@ -957,7 +957,7 @@ var jingles = [
     {
         "id": 107,
         "nombreJingle": "Qué tal?",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Qué tal?",
         "autorReal": "Divididos",
         "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1937s",
@@ -975,7 +975,7 @@ var jingles = [
     {
         "id": 109,
         "nombreJingle": "Petovelooo",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "A capela",
         "autorReal": "Freddy Mercury",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=80s",
@@ -984,7 +984,7 @@ var jingles = [
     {
         "id": 110,
         "nombreJingle": "No bajan alimentos",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Tren del Cielo",
         "autorReal": "Soledad Pastorutti",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=102s",
@@ -1029,7 +1029,7 @@ var jingles = [
     {
         "id": 115,
         "nombreJingle": "Marra es el sol",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Salgan al Sol",
         "autorReal": "Billy Bond y la Pesada del Rock and Roll",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=815s",
@@ -1065,7 +1065,7 @@ var jingles = [
     {
         "id": 119,
         "nombreJingle": "Impresion (lo extraño a Alberto)",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Fascination",
         "autorReal": "Proper Filthy Naughty",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1326s",
@@ -1083,7 +1083,7 @@ var jingles = [
     {
         "id": 121,
         "nombreJingle": "Con la mia",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Locomia",
         "autorReal": "Locomia",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1651s",
@@ -1092,7 +1092,7 @@ var jingles = [
     {
         "id": 122,
         "nombreJingle": "Posse",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Pose",
         "autorReal": "Daddy Yankee",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1823s",
@@ -1101,7 +1101,7 @@ var jingles = [
     {
         "id": 123,
         "nombreJingle": "Chupa sister",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Chupa Chichi",
         "autorReal": "Grupo Felicidad",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1970s",
@@ -1110,7 +1110,7 @@ var jingles = [
     {
         "id": 124,
         "nombreJingle": "Ocho meses para un DNU",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Jurabas tu",
         "autorReal": "Los del fuego",
         "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=2177s",
@@ -1119,7 +1119,7 @@ var jingles = [
     {
         "id": 125,
         "nombreJingle": "Petovelo",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Banana Boat",
         "autorReal": "Harry Belafonte",
         "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=86s",
@@ -1137,7 +1137,7 @@ var jingles = [
     {
         "id": 127,
         "nombreJingle": "Petovelo",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Pedro",
         "autorReal": "Raffaella Carra",
         "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=338s",
@@ -1146,7 +1146,7 @@ var jingles = [
     {
         "id": 128,
         "nombreJingle": "El hermano de Karina",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "La gallina turuleka",
         "autorReal": "Gaby, fofo y miliki",
         "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=417s",
@@ -1155,7 +1155,7 @@ var jingles = [
     {
         "id": 129,
         "nombreJingle": "Javier Milei se la gastaba",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Un elefante se balanceaba",
         "autorReal": "Popular",
         "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=521s",
@@ -1164,7 +1164,7 @@ var jingles = [
     {
         "id": 130,
         "nombreJingle": "La petovelo",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Aurora",
         "autorReal": "Héctor Panizza",
         "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=655s",
@@ -1182,7 +1182,7 @@ var jingles = [
     {
         "id": 132,
         "nombreJingle": "Hola hermana como estas",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "El Oficio de Ser Mamá",
         "autorReal": "Macaferri y Asociados",
         "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=910s",
@@ -1254,7 +1254,7 @@ var jingles = [
     {
         "id": 140,
         "nombreJingle": "Le Creqsel",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Je Veux",
         "autorReal": "Zaz",
         "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=94s",
@@ -1272,7 +1272,7 @@ var jingles = [
     {
         "id": 142,
         "nombreJingle": "Muy facho y enano",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "Azúcar Amargo",
         "autorReal": "Fey",
         "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=390s",
@@ -1290,7 +1290,7 @@ var jingles = [
     {
         "id": 144,
         "nombreJingle": "Honor al gran Mayans",
-        "autorJingle": "",
+        "autorJingle": "Anónimo",
         "nombreReal": "La Marcha de San Lorenzo",
         "autorReal": "Argentina CARAJO",
         "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=719s",

@@ -43,7 +43,8 @@ function autocomplete(inp, arr) {
             return (
                 course.nombreJingle.toLowerCase().includes(lowerSearchText) ||
                 course.nombreReal.toLowerCase().includes(lowerSearchText) ||
-                course.autorReal.toLowerCase().includes(lowerSearchText)
+                course.autorReal.toLowerCase().includes(lowerSearchText) ||
+                course.autorJingle.toLowerCase().includes(lowerSearchText)
             );
         }).map(course => {
             const highlightedCourse = { ...course };
@@ -57,7 +58,7 @@ function autocomplete(inp, arr) {
     }
 
     function getName(result) {
-        return `${result.nombreJingle} - ${result.nombreReal} (${result.autorReal})`;
+        return `${result.nombreJingle} (${result.autorJingle}) - ${result.nombreReal} (${result.autorReal})`;
     }
 
     function cleanText(text) {
