@@ -111,42 +111,7 @@ function autocomplete(inp, arr) {
     });
 }
 
-var courses = [
-    {
-        id: 1,
-        nombreReal: "Western",
-        autorReal: "Ataque 77",
-        nombreJingle: "Devaluas",
-        link: "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=157s"
-    },
-    {
-        id: 2,
-        nombreReal: "Message In A Bottle",
-        autorReal: "The Police",
-        nombreJingle: "Messi esta en banco",
-        link: "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=266s"
-    }, {
-        id: 3,
-        nombreReal: "Ciudad de la paz",
-        autorReal: "Dillom",
-        nombreJingle: "El dolar vuelve a despertar",
-        link: "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=352s"
-    }, {
-        id: 4,
-        nombreReal: "Ciudad de la paz",
-        autorReal: "Dillom",
-        nombreJingle: "El Cipayo de Milei",
-        link: "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=352s"
-    }, {
-        id: 4,
-        nombreReal: "La Del Toro",
-        autorReal: "Bersuit Vergarabat",
-        nombreJingle: "Ya no puedo comprar",
-        link: "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=578s"
-    }
-];
-
-autocomplete(document.getElementById("inpJingle"), courses);
+autocomplete(document.getElementById("inpJingle"), jingles);
 
 document.addEventListener("DOMContentLoaded", function () {
     const h1Element = document.getElementsByTagName("h1")[0];
