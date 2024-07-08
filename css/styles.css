@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     height: 100vh;
     margin: 0;
     background-color: #000;
@@ -23,6 +23,7 @@ body {
     display: inline-block;
 }
 .container {
+    padding-top: 6rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -102,6 +103,10 @@ form {
 }
 
 .autocomplete-active {
-    background-color: DodgerBlue !important; 
+    background-color: #2AEA49 !important; 
     color: #ffffff; 
+}
+
+.clear-icon{
+    color: #000;
 }
