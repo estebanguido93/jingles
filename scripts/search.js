@@ -169,7 +169,10 @@ function autocomplete(inp) {
     }
     inp.addEventListener("keydown", function (e) {
         var x = document.getElementById(this.id + "autocomplete-list");
-        if (x) x = x.getElementsByTagName("div");
+        if (x) {
+            x = x.getElementsByTagName("div");
+        }
+        showClearButton();
         if (e.keyCode == 40) {
             currentFocus++;
             addActive(x);
