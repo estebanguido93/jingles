@@ -32,22 +32,29 @@ function autocomplete(inp) {
     });
 
     function highlightText(text, searchText) {
-        const index = text.toString().toLowerCase().indexOf(searchText.toLowerCase());
+        const normalizedText = text.toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+        const normalizedSearchText = searchText.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+
+        const index = normalizedText.indexOf(normalizedSearchText);
+
         if (index === -1) {
             return text;
         }
+
         const originalText = text.substring(index, index + searchText.length);
+
         return text.substring(0, index) + '<strong>' + originalText + '</strong>' + text.substring(index + searchText.length);
     }
 
     function searchJingles(jingles, searchText) {
-        const lowerSearchText = searchText.toLowerCase();
+        const lowerSearchText = searchText.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+
         return jingles.filter(course => {
             return (
-                course.nombreJingle.toLowerCase().includes(lowerSearchText) ||
-                course.nombreReal.toLowerCase().includes(lowerSearchText) ||
-                course.autorReal.toLowerCase().includes(lowerSearchText) ||
-                course.autorJingle.toLowerCase().includes(lowerSearchText)
+                course.nombreJingle.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(lowerSearchText) ||
+                course.nombreReal.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(lowerSearchText) ||
+                course.autorReal.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(lowerSearchText) ||
+                course.autorJingle.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(lowerSearchText)
             );
         }).map(course => {
             const highlightedCourse = { ...course };
@@ -61,7 +68,31 @@ function autocomplete(inp) {
     }
 
     function getName(result) {
-        return `${result.nombreJingle} (${result.autorJingle}) - ${result.nombreReal} (${result.autorReal})`;
+        const nombreJingle = result.nombreJingle || '';
+        const autorJingle = result.autorJingle || '';
+        const nombreReal = result.nombreReal || '';
+        const autorReal = result.autorReal || '';
+
+        let name = '';
+
+        if (nombreJingle) {
+            name += nombreJingle;
+            if (autorJingle) {
+                name += ` (${autorJingle})`;
+            }
+        }
+
+        if (nombreReal) {
+            if (name) {
+                name += ' - ';
+            }
+            name += nombreReal;
+            if (autorReal) {
+                name += ` (${autorReal})`;
+            }
+        }
+
+        return name;
     }
 
     function cleanText(text) {
@@ -155,20 +186,3 @@ function autocomplete(inp) {
 }
 
 autocomplete(document.getElementById("inpJingle"));
-
-document.addEventListener("DOMContentLoaded", function () {
-    const h1Element = document.getElementsByTagName("h1")[0];
-    setTimeout(function () {
-        h1Element.classList.add("visible");
-    }, 50);
-
-    const imgElement = document.getElementsByTagName("img")[0];
-    setTimeout(function () {
-        imgElement.classList.add("visible");
-    }, 350);
-
-    const h2Element = document.getElementsByTagName("h2")[0];
-    setTimeout(function () {
-        h2Element.classList.add("visible");
-    }, 650);
-});

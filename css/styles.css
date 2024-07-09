@@ -11,6 +11,11 @@ body {
     font-weight: 500;
     font-style: normal; 
 }
+#jingle-counter{
+    font-weight: 500;
+    color: #fff;
+    font-size: 1rem;
+}
 .fade-in {
     opacity: 0;
     transition: opacity 2s ease-in-out;

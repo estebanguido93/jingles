@@ -16,17 +16,22 @@
 
 <body>
     <div class="container">
-        <h1 class="fade-in">La fábrica de jingles</h1>
-        <img src="img/GELATINA_LOGO.png" alt="Gelatina" class="fade-in" height="50px">
-        <h2 class="fade-in">Gelatina</h2>
+        <h1 id="title" class="fade-in">La fábrica de jingles</h1>
+        <img id="logo" src="img/GELATINA_LOGO.png" alt="Gelatina" class="fade-in" height="50px">
+        <h2 id="subtitle" class="fade-in">Gelatina</h2>
+        <div id="jingle-counter">
+            <p>Cantidad de Jingles que podes encontrar: <span id="jingle-total">0</span></p>
+        </div>
         <form autocomplete="off">
             <div class="autocomplete" style="width:100%">
-                <input id="inpJingle" type="text" name="jingles" placeholder="Busca por jingle como quieras">
+                <input id="inpJingle" type="text" name="jingles" placeholder="Busca el jingle como quieras">
             </div>
         </form>
     </div>
+    <script src="scripts/effects.js"></script>
     <script src="scripts/data.js"></script>
-    <script src="scripts/scripts.js"></script>
+    <script src="scripts/count.js"></script>
+    <script src="scripts/search.js"></script>
 </body>
 
 </html>
