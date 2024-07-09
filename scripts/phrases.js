@@ -19,7 +19,7 @@ function startCycle() {
 
     elements.forEach(({ el, time }) => {
         setTimeout(() => {
-            el.style.fontSize = `${currentFontSize}px`;
+            //el.style.fontSize = `${currentFontSize}px`;
             el.classList.add("visible");
         }, time);
     });
@@ -31,10 +31,10 @@ function startCycle() {
             el.classList.remove("visible");
         });
 
-        currentFontSize += fontSizeIncrement;
+        /*currentFontSize += fontSizeIncrement;
         if (currentFontSize > maxFontSize) {
             currentFontSize = 16;
-        }
+        }*/
 
         // Restart the cycle
         startCycle();
