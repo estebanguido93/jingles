@@ -6,7 +6,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Western",
         "autorReal": "Ataque 77",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=157s"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=157s&autoplay=1"
     },
     {
         "id": 2,
@@ -14,7 +14,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Message In A Bottle",
         "autorReal": "The Police",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=266s"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=266s&autoplay=1"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Ciudad de la paz",
         "autorReal": "Dillom",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=352s"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=352s&autoplay=1"
     },
     {
         "id": 4,
@@ -30,7 +30,7 @@ var jingles = [
         "autorJingle": "Octavio Giancarelli",
         "nombreReal": "Reggae Para Los Amigos",
         "autorReal": "Intoxicados",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=476"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=476&autoplay=1"
     },
     {
         "id": 5,
@@ -38,7 +38,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "La Del Toro",
         "autorReal": "Ya no puedo comprar",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=578s"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=578s&autoplay=1"
     },
     {
         "id": 6,
@@ -46,7 +46,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "El tuerto y los ciegos",
         "autorReal": "Sui Generis",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=783"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=783&autoplay=1"
     },
     {
         "id": 7,
@@ -54,7 +54,7 @@ var jingles = [
         "autorJingle": "Matías Mowszet",
         "nombreReal": "Universo Paralelo",
         "autorReal": "Nahuel Penissi",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=900"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=900&autoplay=1"
     },
     {
         "id": 8,
@@ -62,7 +62,7 @@ var jingles = [
         "autorJingle": "Nico Alvarez",
         "nombreReal": "Besame mucho",
         "autorReal": "Consuelo Velazquez",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1025"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1025&autoplay=1"
     },
     {
         "id": 9,
@@ -70,7 +70,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Nessun dorma",
         "autorReal": "Luciano Pavarotti",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1163"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1163&autoplay=1"
     },
     {
         "id": 10,
@@ -78,7 +78,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "I will always love you",
         "autorReal": "Whitney Houston",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1258"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1258&autoplay=1"
     },
     {
         "id": 11,
@@ -86,7 +86,7 @@ var jingles = [
         "autorJingle": "Bruja del monte",
         "nombreReal": "Hoy",
         "autorReal": "Gloria Estefan",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1538"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1538&autoplay=1"
     },
     {
         "id": 12,
@@ -94,7 +94,7 @@ var jingles = [
         "autorJingle": "Iñaqui gonzalez",
         "nombreReal": "Mais Que Nada",
         "autorReal": "Sergio Mendes",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1649"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1649&autoplay=1"
     },
     {
         "id": 13,
@@ -102,7 +102,7 @@ var jingles = [
         "autorJingle": "Negro Andante",
         "nombreReal": "Menem lo hizo",
         "autorReal": "Duda Mendonça",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1768"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1768&autoplay=1"
     },
     {
         "id": 14,
@@ -110,7 +110,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Haceme un pete",
         "autorReal": "Damas Gratis",
-        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1933"
+        "link": "https://www.youtube.com/watch?v=B8t0lsWyoAQ&t=1933&autoplay=1"
     },
     {
         "id": 15,
@@ -118,7 +118,7 @@ var jingles = [
         "autorJingle": "Blas Ferrari",
         "nombreReal": "Gordo flaco",
         "autorReal": "Wos y Catriel",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=139s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=139s&autoplay=1"
     },
     {
         "id": 16,
@@ -126,7 +126,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Biscochito",
         "autorReal": "Rosalia",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=254s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=254s&autoplay=1"
     },
     {
         "id": 17,
@@ -134,7 +134,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Vivir asi es morir de amor",
         "autorReal": "Nati Peluso",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=360s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=360s&autoplay=1"
     },
     {
         "id": 18,
@@ -142,7 +142,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "11 y 6",
         "autorReal": "Fito Paez",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=448s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=448s&autoplay=1"
     },
     {
         "id": 19,
@@ -150,7 +150,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "El tesoro",
         "autorReal": "Él Mató a un Policía Motorizado",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=538s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=538s&autoplay=1"
     },
     {
         "id": 20,
@@ -158,7 +158,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "Como la cigarra",
         "autorReal": "Maria Elena Walsh",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=662s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=662s&autoplay=1"
     },
     {
         "id": 21,
@@ -166,7 +166,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Parque acuatico",
         "autorReal": "El Kuelge",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=796s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=796s&autoplay=1"
     },
     {
         "id": 22,
@@ -174,7 +174,7 @@ var jingles = [
         "autorJingle": "Negro Andante",
         "nombreReal": "Una prima lejana",
         "autorReal": "Los Autenticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=940s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=940s&autoplay=1"
     },
     {
         "id": 23,
@@ -182,7 +182,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Departamento deshabitado",
         "autorReal": "Intoxicados",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1045s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1045s&autoplay=1"
     },
     {
         "id": 24,
@@ -190,7 +190,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu y Pedro Rosemblat",
         "nombreReal": "Vos sabés",
         "autorReal": "Los Fabulosos Cadillacs",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1181s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1181s&autoplay=1"
     },
     {
         "id": 25,
@@ -198,7 +198,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Tira para arriba",
         "autorReal": "Miguel Mateos & Zas",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1290s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1290s&autoplay=1"
     },
     {
         "id": 26,
@@ -206,7 +206,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La bestia pop",
         "autorReal": "Patricio Rey y sus Redonditos de Ricota",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1405s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1405s&autoplay=1"
     },
     {
         "id": 27,
@@ -214,7 +214,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "El extraño de pelo largo",
         "autorReal": "La joven guardia",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1514s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1514s&autoplay=1"
     },
     {
         "id": 28,
@@ -222,7 +222,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Libre",
         "autorReal": "Nino Bravo",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1600s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1600s&autoplay=1"
     },
     {
         "id": 29,
@@ -230,7 +230,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Another Brick in the Wal",
         "autorReal": "",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1708s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1708s&autoplay=1"
     },
     {
         "id": 30,
@@ -238,7 +238,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Mon amour",
         "autorReal": "Slimane",
-        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1897s"
+        "link": "https://www.youtube.com/watch?v=6EEhQHWjhl4&t=1897s&autoplay=1"
     },
     {
         "id": 31,
@@ -246,7 +246,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La Bolsa",
         "autorReal": "La Bersuit",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=90s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=90s&autoplay=1"
     },
     {
         "id": 32,
@@ -254,7 +254,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Avanti Morocha",
         "autorReal": "Caballeros de la Quema",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=225s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=225s&autoplay=1"
     },
     {
         "id": 33,
@@ -262,7 +262,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Me Gustas Mucho",
         "autorReal": "Viejas Locas",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=467s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=467s&autoplay=1"
     },
     {
         "id": 34,
@@ -270,7 +270,7 @@ var jingles = [
         "autorJingle": "La Cope y Matías Mowszet",
         "nombreReal": "Yo me quiero casar y Ud?",
         "autorReal": "Turf",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=582s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=582s&autoplay=1"
     },
     {
         "id": 35,
@@ -278,7 +278,7 @@ var jingles = [
         "autorJingle": "Blasito Ferrari",
         "nombreReal": "Algo contigo",
         "autorReal": "Vicentico",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=736s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=736s&autoplay=1"
     },
     {
         "id": 36,
@@ -286,7 +286,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Asesiname",
         "autorReal": "Charly Garcia",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=924s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=924s&autoplay=1"
     },
     {
         "id": 37,
@@ -294,7 +294,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "No soy un extraño",
         "autorReal": "Charly Garcia",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1053s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1053s&autoplay=1"
     },
     {
         "id": 38,
@@ -302,7 +302,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Ya no sos igual",
         "autorReal": "2 minutos",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1155s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1155s&autoplay=1"
     },
     {
         "id": 39,
@@ -310,7 +310,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Loco en el desierto",
         "autorReal": "Conociendo Rusia",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1342s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1342s&autoplay=1"
     },
     {
         "id": 40,
@@ -318,7 +318,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Flores Amarillas",
         "autorReal": "Floricienta",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1586s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1586s&autoplay=1"
     },
     {
         "id": 41,
@@ -326,7 +326,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Tu falta de querer",
         "autorReal": "Mon Laferte",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1701s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1701s&autoplay=1"
     },
     {
         "id": 42,
@@ -334,7 +334,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Beautiful",
         "autorReal": "Tan Bionica",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1827s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1827s&autoplay=1"
     },
     {
         "id": 43,
@@ -342,7 +342,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Dance Crip",
         "autorReal": "Trueno",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1942s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=1942s&autoplay=1"
     },
     {
         "id": 44,
@@ -350,7 +350,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "La gota fría",
         "autorReal": "Carlos Vives",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=2125s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=2125s&autoplay=1"
     },
     {
         "id": 45,
@@ -358,7 +358,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano y Blasito",
         "nombreReal": "Colgando en tus manos",
         "autorReal": "Marta Sánchez",
-        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=2293s"
+        "link": "https://www.youtube.com/watch?v=F-VtkbCe7SI&t=2293s&autoplay=1"
     },
     {
         "id": 46,
@@ -366,7 +366,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Wadu-Wadu",
         "autorReal": "Virus",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=143s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=143s&autoplay=1"
     },
     {
         "id": 47,
@@ -374,7 +374,7 @@ var jingles = [
         "autorJingle": "Juan Martín VK",
         "nombreReal": "Yo no me sentaría en tu mesa",
         "autorReal": "Los Fabulosos Cadillacs",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=224s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=224s&autoplay=1"
     },
     {
         "id": 48,
@@ -382,7 +382,7 @@ var jingles = [
         "autorJingle": "Negro Andante",
         "nombreReal": "El Estudiante",
         "autorReal": "Los Twist",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=332s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=332s&autoplay=1"
     },
     {
         "id": 49,
@@ -390,7 +390,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Magoo",
         "autorReal": "Eruca Sativa",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=580s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=580s&autoplay=1"
     },
     {
         "id": 50,
@@ -398,7 +398,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Piña va, Piña viene",
         "autorReal": "2 minutos",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=678s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=678s&autoplay=1"
     },
     {
         "id": 51,
@@ -406,7 +406,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Inconsciente colectivo",
         "autorReal": "Charly García",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=911s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=911s&autoplay=1"
     },
     {
         "id": 52,
@@ -414,7 +414,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "Campanas en la noche",
         "autorReal": "Los Tipitos",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1121s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1121s&autoplay=1"
     },
     {
         "id": 53,
@@ -422,7 +422,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "El Fantasma",
         "autorReal": "Árbol",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1284s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1284s&autoplay=1"
     },
     {
         "id": 54,
@@ -430,7 +430,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Tierra Santa",
         "autorReal": "Trueno",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1458s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1458s&autoplay=1"
     },
     {
         "id": 55,
@@ -438,7 +438,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Cuando nadie me ve",
         "autorReal": "Alejandro Sanz",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1674s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1674s&autoplay=1"
     },
     {
         "id": 56,
@@ -446,7 +446,7 @@ var jingles = [
         "autorJingle": "La Cope",
         "nombreReal": "Aguita",
         "autorReal": "Rafaga",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1845s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1845s&autoplay=1"
     },
     {
         "id": 57,
@@ -454,7 +454,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano y Blasito Ferrari",
         "nombreReal": "Don’t you want me baby",
         "autorReal": "The Human League",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1957s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=1957s&autoplay=1"
     },
     {
         "id": 58,
@@ -462,7 +462,7 @@ var jingles = [
         "autorJingle": "No Importa Mariposas",
         "nombreReal": "YMCA",
         "autorReal": "Village People",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=2161s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=2161s&autoplay=1"
     },
     {
         "id": 59,
@@ -470,7 +470,7 @@ var jingles = [
         "autorJingle": "Matías Mowszet",
         "nombreReal": "La Morocha",
         "autorReal": "Luck Ra & BM",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=2280s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=2280s&autoplay=1"
     },
     {
         "id": 60,
@@ -478,7 +478,7 @@ var jingles = [
         "autorJingle": "Blasito Ferrari",
         "nombreReal": "El Murguero",
         "autorReal": "Los Auténticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=2411s"
+        "link": "https://www.youtube.com/watch?v=iMvADI6vwzA&t=2411s&autoplay=1"
     },
     {
         "id": 61,
@@ -486,7 +486,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Don",
         "autorReal": "Miranda",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=222s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=222s&autoplay=1"
     },
     {
         "id": 62,
@@ -494,7 +494,7 @@ var jingles = [
         "autorJingle": "La Cope",
         "nombreReal": "Solo aqui",
         "autorReal": "Airbag",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=371s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=371s&autoplay=1"
     },
     {
         "id": 63,
@@ -502,7 +502,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Loco un Poco",
         "autorReal": "Turf",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=467s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=467s&autoplay=1"
     },
     {
         "id": 64,
@@ -510,7 +510,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Mil horas",
         "autorReal": "Los Abuelos de la Nada",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=664s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=664s&autoplay=1"
     },
     {
         "id": 65,
@@ -518,7 +518,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Lago en el cielo",
         "autorReal": "Gustavo Cerati",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=784s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=784s&autoplay=1"
     },
     {
         "id": 66,
@@ -526,7 +526,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Argentina",
         "autorReal": "Trueno / Nathy Peluso",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=975s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=975s&autoplay=1"
     },
     {
         "id": 67,
@@ -534,7 +534,7 @@ var jingles = [
         "autorJingle": "Musica de cancha",
         "nombreReal": "Escuchen, corran la bola",
         "autorReal": "Musica de cancha",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1214s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1214s&autoplay=1"
     },
     {
         "id": 68,
@@ -542,7 +542,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Tu reputacion",
         "autorReal": "Ricardo Arjona",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1260s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1260s&autoplay=1"
     },
     {
         "id": 69,
@@ -550,7 +550,7 @@ var jingles = [
         "autorJingle": "María Paula Godoy",
         "nombreReal": "Garota de Ipanema",
         "autorReal": "Vinícius de Morais",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1406s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1406s&autoplay=1"
     },
     {
         "id": 70,
@@ -558,7 +558,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Gracias a la Vida",
         "autorReal": "Violeta Parra",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1660s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1660s&autoplay=1"
     },
     {
         "id": 71,
@@ -566,7 +566,7 @@ var jingles = [
         "autorJingle": "Blasito Ferrari",
         "nombreReal": "Volver a Empezar",
         "autorReal": "Alejandro Lerner",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1780s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1780s&autoplay=1"
     },
     {
         "id": 72,
@@ -574,7 +574,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "No Woman No Cry",
         "autorReal": "Bob Marley",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1926s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=1926s&autoplay=1"
     },
     {
         "id": 73,
@@ -582,7 +582,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano y Cortoplacista",
         "nombreReal": "Águas de Março",
         "autorReal": "Elisa Regina / Tom Jobim",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2111s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2111s&autoplay=1"
     },
     {
         "id": 74,
@@ -590,7 +590,7 @@ var jingles = [
         "autorJingle": "Matías Mowszet",
         "nombreReal": "Shake it Off",
         "autorReal": "Taylor Swift",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2276s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2276s&autoplay=1"
     },
     {
         "id": 75,
@@ -598,7 +598,7 @@ var jingles = [
         "autorJingle": "el jinglero de los Caligaris",
         "nombreReal": "Dale vieja dale",
         "autorReal": "Ulises Bueno",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2407s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2407s&autoplay=1"
     },
     {
         "id": 76,
@@ -606,7 +606,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Mil horas",
         "autorReal": "Los Abuelos de la Nada",
-        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2515s"
+        "link": "https://www.youtube.com/watch?v=9GOe22pqrS8&t=2515s&autoplay=1"
     },
     {
         "id": 77,
@@ -614,7 +614,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Sucio y Desprolijo",
         "autorReal": "Pappo",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=75s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=75s&autoplay=1"
     },
     {
         "id": 78,
@@ -622,7 +622,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Loco",
         "autorReal": "Los Auténticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=231s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=231s&autoplay=1"
     },
     {
         "id": 79,
@@ -630,7 +630,7 @@ var jingles = [
         "autorJingle": "La Cope",
         "nombreReal": "Mil Horas",
         "autorReal": "Los Abuelos de la Nada",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=374s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=374s&autoplay=1"
     },
     {
         "id": 80,
@@ -638,7 +638,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "Manuél Santillán, El León",
         "autorReal": "Los Fabulosos Cadillacs",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=472s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=472s&autoplay=1"
     },
     {
         "id": 81,
@@ -646,7 +646,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Vencedores Vencidos",
         "autorReal": "Patricio Rey y los redonditos de ricota",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=616s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=616s&autoplay=1"
     },
     {
         "id": 82,
@@ -654,7 +654,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Señor Kiosquero",
         "autorReal": "Intoxicados",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=743s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=743s&autoplay=1"
     },
     {
         "id": 83,
@@ -662,7 +662,7 @@ var jingles = [
         "autorJingle": "Marquitos, Pedrillom y Blasito",
         "nombreReal": "Mi Peor Enemigo",
         "autorReal": "Dillom",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=882s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=882s&autoplay=1"
     },
     {
         "id": 84,
@@ -670,7 +670,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Bohemian Rapsody",
         "autorReal": "Queen",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1112s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1112s&autoplay=1"
     },
     {
         "id": 85,
@@ -678,7 +678,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Believe",
         "autorReal": "Cher",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1169s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1169s&autoplay=1"
     },
     {
         "id": 86,
@@ -686,7 +686,7 @@ var jingles = [
         "autorJingle": "María Paula Godoy",
         "nombreReal": "Um dia de domingo",
         "autorReal": "Gal Costa y Tim Maia",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1334s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1334s&autoplay=1"
     },
     {
         "id": 87,
@@ -694,7 +694,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Inevitable",
         "autorReal": "Shakira",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1486s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1486s&autoplay=1"
     },
     {
         "id": 88,
@@ -702,7 +702,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Quién Va A Cantar",
         "autorReal": "Rubén Rada",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1620s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1620s&autoplay=1"
     },
     {
         "id": 89,
@@ -710,7 +710,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Burbujas de Amor",
         "autorReal": "Juan Luis Guerra",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1706s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1706s&autoplay=1"
     },
     {
         "id": 90,
@@ -718,7 +718,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Cumbiera Intelectual",
         "autorReal": "Kevin Johansen",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1846s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=1846s&autoplay=1"
     },
     {
         "id": 91,
@@ -726,7 +726,7 @@ var jingles = [
         "autorJingle": "El Huiña",
         "nombreReal": "Comadre Compadre",
         "autorReal": "Los Fatales",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=2010s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=2010s&autoplay=1"
     },
     {
         "id": 92,
@@ -734,7 +734,7 @@ var jingles = [
         "autorJingle": "Blasito",
         "nombreReal": "Picky",
         "autorReal": "Joey Montana",
-        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=2145s"
+        "link": "https://www.youtube.com/watch?v=iUikRI9uykM&t=2145s&autoplay=1"
     },
     {
         "id": 93,
@@ -742,7 +742,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "El Ritual de Banana",
         "autorReal": "Los Pericos",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=91s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=91s&autoplay=1"
     },
     {
         "id": 94,
@@ -750,7 +750,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Tema de Piluso",
         "autorReal": "Fito Páez",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=192s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=192s&autoplay=1"
     },
     {
         "id": 95,
@@ -758,7 +758,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Preso en mi Ciudad",
         "autorReal": "Patricio Rey y los Redonditos de Ricota",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=326s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=326s&autoplay=1"
     },
     {
         "id": 96,
@@ -766,7 +766,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Magia Blanca",
         "autorReal": "Turf",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=469s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=469s&autoplay=1"
     },
     {
         "id": 97,
@@ -774,7 +774,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "Siguiendo la Luna",
         "autorReal": "Los Fabulosos Cadillacs",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=590s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=590s&autoplay=1"
     },
     {
         "id": 98,
@@ -782,7 +782,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Puto",
         "autorReal": "Molotov",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=770s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=770s&autoplay=1"
     },
     {
         "id": 99,
@@ -790,7 +790,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Los Métodos Piqueteros",
         "autorReal": "Las Manos de Filippi",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=860s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=860s&autoplay=1"
     },
     {
         "id": 100,
@@ -798,7 +798,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Cirugía",
         "autorReal": "Dillom",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=974s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=974s&autoplay=1"
     },
     {
         "id": 101,
@@ -806,7 +806,7 @@ var jingles = [
         "autorJingle": "Matías Mowszet",
         "nombreReal": "Si Te Vas",
         "autorReal": "Shakira",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1108s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1108s&autoplay=1"
     },
     {
         "id": 102,
@@ -814,7 +814,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Rosas",
         "autorReal": "La Oreja de Van Gogh",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1289s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1289s&autoplay=1"
     },
     {
         "id": 103,
@@ -822,7 +822,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La Luna y el Toro",
         "autorReal": "El Matador",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1435s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1435s&autoplay=1"
     },
     {
         "id": 104,
@@ -830,7 +830,7 @@ var jingles = [
         "autorJingle": "Blasito",
         "nombreReal": "Píntame",
         "autorReal": "Elvis Crespo",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1561s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1561s&autoplay=1"
     },
     {
         "id": 105,
@@ -838,7 +838,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Caraluna",
         "autorReal": "Bacilos",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1668s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1668s&autoplay=1"
     },
     {
         "id": 106,
@@ -846,7 +846,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Me Va a Extrañar",
         "autorReal": "Ricardo Montaner",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1789s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1789s&autoplay=1"
     },
     {
         "id": 107,
@@ -854,7 +854,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Qué tal?",
         "autorReal": "Divididos",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1937s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1937s&autoplay=1"
     },
     {
         "id": 108,
@@ -862,7 +862,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "Hallelujah",
         "autorReal": "Leonard Cohen",
-        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1937s"
+        "link": "https://www.youtube.com/watch?v=i_c8dt_XFnk&t=1937s&autoplay=1"
     },
     {
         "id": 109,
@@ -870,7 +870,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "A capela",
         "autorReal": "Freddy Mercury",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=80s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=80s&autoplay=1"
     },
     {
         "id": 110,
@@ -878,7 +878,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Tren del Cielo",
         "autorReal": "Soledad Pastorutti",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=102s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=102s&autoplay=1"
     },
     {
         "id": 111,
@@ -886,7 +886,7 @@ var jingles = [
         "autorJingle": "María Paula Godoy",
         "nombreReal": "Todo Cambia",
         "autorReal": "Mercedes Sosa",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=241s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=241s&autoplay=1"
     },
     {
         "id": 112,
@@ -894,7 +894,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "La Excepción",
         "autorReal": "Gustavo Cerati",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=370s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=370s&autoplay=1"
     },
     {
         "id": 113,
@@ -902,7 +902,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Perro Amor Explota",
         "autorReal": "Bersuit Vergarabat",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=514s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=514s&autoplay=1"
     },
     {
         "id": 114,
@@ -910,7 +910,7 @@ var jingles = [
         "autorJingle": "Nico Alvarez",
         "nombreReal": "No Se Puede Vivir del Amor",
         "autorReal": "Andrés Calamaro",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=724s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=724s&autoplay=1"
     },
     {
         "id": 115,
@@ -918,7 +918,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Salgan al Sol",
         "autorReal": "Billy Bond y la Pesada del Rock and Roll",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=815s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=815s&autoplay=1"
     },
     {
         "id": 116,
@@ -926,7 +926,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "La Chica del Bikini Azul",
         "autorReal": "Luis Miguel",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=916s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=916s&autoplay=1"
     },
     {
         "id": 117,
@@ -934,7 +934,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Me Das Cada Día Más",
         "autorReal": "Valeria Lynch",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1045s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1045s&autoplay=1"
     },
     {
         "id": 118,
@@ -942,7 +942,7 @@ var jingles = [
         "autorJingle": "Blasito",
         "nombreReal": "Más",
         "autorReal": "Ricky Martin",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1195s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1195s&autoplay=1"
     },
     {
         "id": 119,
@@ -950,7 +950,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Fascination",
         "autorReal": "Proper Filthy Naughty",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1326s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1326s&autoplay=1"
     },
     {
         "id": 120,
@@ -958,7 +958,7 @@ var jingles = [
         "autorJingle": "La Cope",
         "nombreReal": "Sk8ter Boy",
         "autorReal": "Avril Lavigne",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1535s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1535s&autoplay=1"
     },
     {
         "id": 121,
@@ -966,7 +966,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Locomia",
         "autorReal": "Locomia",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1651s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1651s&autoplay=1"
     },
     {
         "id": 122,
@@ -974,7 +974,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Pose",
         "autorReal": "Daddy Yankee",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1823s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1823s&autoplay=1"
     },
     {
         "id": 123,
@@ -982,7 +982,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Chupa Chichi",
         "autorReal": "Grupo Felicidad",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1970s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=1970s&autoplay=1"
     },
     {
         "id": 124,
@@ -990,7 +990,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Jurabas tu",
         "autorReal": "Los del fuego",
-        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=2177s"
+        "link": "https://www.youtube.com/watch?v=8iAP0K-Csxg&t=2177s&autoplay=1"
     },
     {
         "id": 125,
@@ -998,7 +998,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Banana Boat",
         "autorReal": "Harry Belafonte",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=86s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=86s&autoplay=1"
     },
     {
         "id": 126,
@@ -1006,7 +1006,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Los Piratas",
         "autorReal": "Los Auténticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=181s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=181s&autoplay=1"
     },
     {
         "id": 127,
@@ -1014,7 +1014,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Pedro",
         "autorReal": "Raffaella Carra",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=338s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=338s&autoplay=1"
     },
     {
         "id": 128,
@@ -1022,7 +1022,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La gallina turuleka",
         "autorReal": "Gaby, fofo y miliki",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=417s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=417s&autoplay=1"
     },
     {
         "id": 129,
@@ -1030,7 +1030,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Un elefante se balanceaba",
         "autorReal": "Popular",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=521s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=521s&autoplay=1"
     },
     {
         "id": 130,
@@ -1038,7 +1038,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Aurora",
         "autorReal": "Héctor Panizza",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=655s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=655s&autoplay=1"
     },
     {
         "id": 131,
@@ -1046,7 +1046,7 @@ var jingles = [
         "autorJingle": "Mati Mowszet",
         "nombreReal": "Volver en Vino",
         "autorReal": "Horacio Guaraní",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=762s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=762s&autoplay=1"
     },
     {
         "id": 132,
@@ -1054,7 +1054,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "El Oficio de Ser Mamá",
         "autorReal": "Macaferri y Asociados",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=910s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=910s&autoplay=1"
     },
     {
         "id": 133,
@@ -1062,7 +1062,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "El Arriero",
         "autorReal": "Divididos",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1009s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1009s&autoplay=1"
     },
     {
         "id": 134,
@@ -1070,7 +1070,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Ala delta",
         "autorReal": "Divididos",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1300s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1300s&autoplay=1"
     },
     {
         "id": 135,
@@ -1078,7 +1078,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Te Quiero Igual",
         "autorReal": "Andrés Calamaro",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1497s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1497s&autoplay=1"
     },
     {
         "id": 136,
@@ -1086,7 +1086,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "Eso Vive",
         "autorReal": "Catupecu Machu",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1664s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1664s&autoplay=1"
     },
     {
         "id": 137,
@@ -1094,7 +1094,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Muñecas",
         "autorReal": "Dillom",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1978s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1978s&autoplay=1"
     },
     {
         "id": 138,
@@ -1102,7 +1102,7 @@ var jingles = [
         "autorJingle": "Blasito",
         "nombreReal": "Una Calle Nos Separa",
         "autorReal": "Néstor en Bloque",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1978s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=1978s&autoplay=1"
     },
     {
         "id": 139,
@@ -1110,7 +1110,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Mamma Mía",
         "autorReal": "ABBA",
-        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=2136s"
+        "link": "https://www.youtube.com/watch?v=VXds8lxj83M&t=2136s&autoplay=1"
     },
     {
         "id": 140,
@@ -1118,7 +1118,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Je Veux",
         "autorReal": "Zaz",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=94s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=94s&autoplay=1"
     },
     {
         "id": 141,
@@ -1126,7 +1126,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Fighter",
         "autorReal": "Cristina Aguilera",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=216s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=216s&autoplay=1"
     },
     {
         "id": 142,
@@ -1134,7 +1134,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Azúcar Amargo",
         "autorReal": "Fey",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=390s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=390s&autoplay=1"
     },
     {
         "id": 143,
@@ -1142,7 +1142,7 @@ var jingles = [
         "autorJingle": "Marcos Aramburu",
         "nombreReal": "La Incondiciona",
         "autorReal": "Luis Miguel",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=506s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=506s&autoplay=1"
     },
     {
         "id": 144,
@@ -1150,7 +1150,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La Marcha de San Lorenzo",
         "autorReal": "Argentina CARAJO",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=719s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=719s&autoplay=1"
     },
     {
         "id": 145,
@@ -1158,7 +1158,7 @@ var jingles = [
         "autorJingle": "David Marchand",
         "nombreReal": "Tira para Arriba",
         "autorReal": "Miguel Mateos",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=859s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=859s&autoplay=1"
     },
     {
         "id": 146,
@@ -1166,7 +1166,7 @@ var jingles = [
         "autorJingle": "Agustina Zelko",
         "nombreReal": "Yo No Soy tu Prisionero",
         "autorReal": "Los Auténticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1005s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1005s&autoplay=1"
     },
     {
         "id": 147,
@@ -1174,7 +1174,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Murguita de Sur",
         "autorReal": "Bersuit Vergarabat",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1120s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1120s&autoplay=1"
     },
     {
         "id": 148,
@@ -1182,7 +1182,7 @@ var jingles = [
         "autorJingle": "La cope",
         "nombreReal": "Tu Vicio",
         "autorReal": "Charly García",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1288s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1288s&autoplay=1"
     },
     {
         "id": 149,
@@ -1190,7 +1190,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "No Llores por mi Argentina",
         "autorReal": "Serú Girán",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1424s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1424s&autoplay=1"
     },
     {
         "id": 150,
@@ -1198,7 +1198,7 @@ var jingles = [
         "autorJingle": "Blasito",
         "nombreReal": "La Cochería",
         "autorReal": "Wos",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1571s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1571s&autoplay=1"
     },
     {
         "id": 151,
@@ -1206,7 +1206,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Bzrp Music Sessions, Vol. 38",
         "autorReal": "L-Gante",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1755s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1755s&autoplay=1"
     },
     {
         "id": 152,
@@ -1214,7 +1214,7 @@ var jingles = [
         "autorJingle": "Nico Álvarez",
         "nombreReal": "Con una Rubia en el Avión",
         "autorReal": "Los Ladrones Sueltos",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1947s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=1947s&autoplay=1"
     },
     {
         "id": 153,
@@ -1222,7 +1222,7 @@ var jingles = [
         "autorJingle": "Christ Motta",
         "nombreReal": "Samantha",
         "autorReal": "Machito Ponce",
-        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=2099s"
+        "link": "https://www.youtube.com/watch?v=m6bHAgyLgU0&t=2099s&autoplay=1"
     },
     {
         "id": 154,
@@ -1230,7 +1230,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Descontrolado",
         "autorReal": "Jóvenes Pordioseros",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=169s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=169s&autoplay=1"
     },
     {
         "id": 155,
@@ -1238,7 +1238,7 @@ var jingles = [
         "autorJingle": "Blasito",
         "nombreReal": "Mírenla",
         "autorReal": "Ciro y los Persas",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=292s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=292s&autoplay=1"
     },
     {
         "id": 156,
@@ -1246,7 +1246,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "El Balneario de los Doctores Crotos",
         "autorReal": "Los Piojos",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=444s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=444s&autoplay=1"
     },
     {
         "id": 157,
@@ -1254,7 +1254,7 @@ var jingles = [
         "autorJingle": "Octavio Gencarelli",
         "nombreReal": "Desconexión Sideral",
         "autorReal": "Bersuit Vergarabat",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=563s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=563s&autoplay=1"
     },
     {
         "id": 158,
@@ -1262,7 +1262,7 @@ var jingles = [
         "autorJingle": "Cortoplacista",
         "nombreReal": "Canción de Juan",
         "autorReal": "Bersuit Vergarabat",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=666s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=666s&autoplay=1"
     },
     {
         "id": 159,
@@ -1270,7 +1270,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Toco y Me Voy",
         "autorReal": "Bersuit Vergarabat",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1077s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1077s&autoplay=1"
     },
     {
         "id": 160,
@@ -1278,7 +1278,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Afiches",
         "autorReal": "Goyeneche",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1231s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1231s&autoplay=1"
     },
     {
         "id": 161,
@@ -1286,7 +1286,7 @@ var jingles = [
         "autorJingle": "Juan Stagno",
         "nombreReal": "Cambalache",
         "autorReal": "Julio Sosa",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1357s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1357s&autoplay=1"
     },
     {
         "id": 162,
@@ -1294,7 +1294,7 @@ var jingles = [
         "autorJingle": "Ópera Carmen",
         "nombreReal": "Habanera",
         "autorReal": "Georges Bizet",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1576s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1576s&autoplay=1"
     },
     {
         "id": 163,
@@ -1302,7 +1302,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La Jueza Barú Budú Budía",
         "autorReal": "Tato Bores",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1691s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1691s&autoplay=1"
     },
     {
         "id": 164,
@@ -1310,7 +1310,7 @@ var jingles = [
         "autorJingle": "El Negro Andante",
         "nombreReal": "Me Convierto en Marciano",
         "autorReal": "Molotov",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1723s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1723s&autoplay=1"
     },
     {
         "id": 165,
@@ -1318,7 +1318,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Do You Want to Build a Snowman",
         "autorReal": "Frozen",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1820s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1820s&autoplay=1"
     },
     {
         "id": 166,
@@ -1326,7 +1326,7 @@ var jingles = [
         "autorJingle": "Gelakids",
         "nombreReal": "Había una vez un Circo",
         "autorReal": "Gaby, Fofó y Miliki",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1935s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=1935s&autoplay=1"
     },
     {
         "id": 167,
@@ -1334,7 +1334,7 @@ var jingles = [
         "autorJingle": "Mariu Serrano",
         "nombreReal": "Toxic",
         "autorReal": "Britney Spears",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=2023s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=2023s&autoplay=1"
     },
     {
         "id": 168,
@@ -1342,7 +1342,7 @@ var jingles = [
         "autorJingle": "Pedrillom",
         "nombreReal": "Buenos Tiempos",
         "autorReal": "Dillom",
-        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=2219s"
+        "link": "https://www.youtube.com/watch?v=ddj9qUJUAoA&t=2219s&autoplay=1"
     },
     {
         "id": 169,
@@ -1350,7 +1350,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Wannabe",
         "autorReal": "Spice Girls",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=219s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=219s&autoplay=1"
     },
     {
         "id": 170,
@@ -1358,7 +1358,7 @@ var jingles = [
         "autorJingle": "Naty Spiner",
         "nombreReal": "Girls just want to have fun",
         "autorReal": "Cyndi Lauper",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=352s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=352s&autoplay=1"
     },
     {
         "id": 171,
@@ -1366,7 +1366,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "This is the rhythm of the night",
         "autorReal": "Corona",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=530s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=530s&autoplay=1"
     },
     {
         "id": 172,
@@ -1374,7 +1374,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Get Lucky",
         "autorReal": "Daft Punk",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=637s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=637s&autoplay=1"
     },
     {
         "id": 173,
@@ -1382,7 +1382,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Ayer te vi",
         "autorReal": "Louta ft. Zoe Gotusso",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=840s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=840s&autoplay=1"
     },
     {
         "id": 174,
@@ -1390,7 +1390,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Díganselo",
         "autorReal": "El Kuelgue",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1023s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1023s&autoplay=1"
     },
     {
         "id": 175,
@@ -1398,7 +1398,7 @@ var jingles = [
         "autorJingle": "BLASITO",
         "nombreReal": "Un Osito de Peluche de Taiwan",
         "autorReal": "Los Auténticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1174s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1174s&autoplay=1"
     },
     {
         "id": 176,
@@ -1406,7 +1406,7 @@ var jingles = [
         "autorJingle": "PEPE",
         "nombreReal": "Pronta Entrega",
         "autorReal": "Virus",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1365s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1365s&autoplay=1"
     },
     {
         "id": 177,
@@ -1414,7 +1414,7 @@ var jingles = [
         "autorJingle": "MARQUITOS",
         "nombreReal": "Alta Suciedad",
         "autorReal": "Andrés Calamaro",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1588s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1588s&autoplay=1"
     },
     {
         "id": 178,
@@ -1422,7 +1422,7 @@ var jingles = [
         "autorJingle": "PEDRILLOM",
         "nombreReal": "La primera",
         "autorReal": "Dillom",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1852s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=1852s&autoplay=1"
     },
     {
         "id": 179,
@@ -1430,7 +1430,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La fama",
         "autorReal": "Rosalía",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2323s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2323s&autoplay=1"
     },
     {
         "id": 180,
@@ -1438,7 +1438,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Caraluna",
         "autorReal": "Bacilos",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2472s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2472s&autoplay=1"
     },
     {
         "id": 181,
@@ -1446,7 +1446,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "El Muerto se fue de Rumba",
         "autorReal": "Las Sabrosas Zarigüellas",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2658s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2658s&autoplay=1"
     },
     {
         "id": 182,
@@ -1454,7 +1454,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "You can’t always get what you want",
         "autorReal": "Rolling Stones",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2789s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2789s&autoplay=1"
     },
     {
         "id": 183,
@@ -1462,7 +1462,7 @@ var jingles = [
         "autorJingle": "VIVI",
         "nombreReal": "Dejame Llorar",
         "autorReal": "Ricardo Montaner",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2920s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=2920s&autoplay=1"
     },
     {
         "id": 184,
@@ -1470,7 +1470,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Todos Me Miran",
         "autorReal": "Gloria Trevi",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3027s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3027s&autoplay=1"
     },
     {
         "id": 185,
@@ -1478,7 +1478,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Hang Out",
         "autorReal": "Madonna",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3160s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3160s&autoplay=1"
     },
     {
         "id": 186,
@@ -1486,7 +1486,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Que ganas de no verte nunca más",
         "autorReal": "Valeria Lynch",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3385s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3385s&autoplay=1"
     },
     {
         "id": 187,
@@ -1494,7 +1494,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Una amigo es una luz",
         "autorReal": "Enanitos Verdes",
-        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3630s"
+        "link": "https://www.youtube.com/watch?v=mnpgvHK3yWc&t=3630s&autoplay=1"
     },
     {
         "id": 188,
@@ -1502,7 +1502,7 @@ var jingles = [
         "autorJingle": "CORO DE GARAGE",
         "nombreReal": "",
         "autorReal": "",
-        "link": "https://www.youtube.com/watch?v=Im8r96udDEs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=29"
+        "link": "https://www.youtube.com/watch?v=Im8r96udDEs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=29&autoplay=1"
     },
     {
         "id": 189,
@@ -1510,7 +1510,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "MADONNA",
         "autorReal": "MATERIAL GIRL",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=14&t=191s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=14&t=191s&autoplay=1"
     },
     {
         "id": 190,
@@ -1518,7 +1518,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "BAD BUNNY",
         "autorReal": "ME PORTO BONITO (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=303s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=303s&autoplay=1"
     },
     {
         "id": 191,
@@ -1526,7 +1526,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "DON OMAR",
         "autorReal": "HASTA ABAJO (BULLRICH)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=429s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=429s&autoplay=1"
     },
     {
         "id": 192,
@@ -1534,7 +1534,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LA JOAQUI",
         "autorReal": "BUTAKERA (BREGMAN)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=535s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=535s&autoplay=1"
     },
     {
         "id": 193,
@@ -1542,7 +1542,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "YSY A",
         "autorReal": "TAMO LOCO (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=676s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=676s&autoplay=1"
     },
     {
         "id": 194,
@@ -1550,7 +1550,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "BAD GYAL",
         "autorReal": "CHULO (NULO)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=960s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=960s&autoplay=1"
     },
     {
         "id": 195,
@@ -1558,7 +1558,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "DILLOM",
         "autorReal": "POSTMORTEM (MILEI)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=960s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=960s&autoplay=1"
     },
     {
         "id": 196,
@@ -1566,7 +1566,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "CALLE 13",
         "autorReal": "LATINOAMÉRICA (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1218s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1218s&autoplay=1"
     },
     {
         "id": 197,
@@ -1574,7 +1574,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LEÓN GIECO",
         "autorReal": "OROSCO (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1378s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1378s&autoplay=1"
     },
     {
         "id": 198,
@@ -1582,7 +1582,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LOS REDONDOS",
         "autorReal": "ME MATA LIMÓN (MILEI)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1761s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1761s&autoplay=1"
     },
     {
         "id": 199,
@@ -1590,7 +1590,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "DIVIDIDOS",
         "autorReal": "SALIR A VOTAR (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1655s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1655s&autoplay=1"
     },
     {
         "id": 200,
@@ -1598,7 +1598,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LOS REDONDOS",
         "autorReal": "JUGUETES PERDIDOS (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1761s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=1761s&autoplay=1"
     },
     {
         "id": 201,
@@ -1606,7 +1606,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "MASSACHUSETTS",
         "autorReal": "FEAT. CALLE) YLVIS",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2088s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2088s&autoplay=1"
     },
     {
         "id": 202,
@@ -1614,7 +1614,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "BERSUIT VERGARABAT",
         "autorReal": "EL GORDO MOTONETA (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2212s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2212s&autoplay=1"
     },
     {
         "id": 203,
@@ -1622,7 +1622,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LA VELA PUERCA",
         "autorReal": "JOSÉ SABÍA (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2492s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2492s&autoplay=1"
     },
     {
         "id": 204,
@@ -1630,7 +1630,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "VOX DEI",
         "autorReal": "GÉNESIS (MASSA)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2756s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=2756s&autoplay=1"
     },
     {
         "id": 205,
@@ -1638,7 +1638,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "DRAGONBALL (MASSA)",
         "autorReal": "",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3079s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3079s&autoplay=1"
     },
     {
         "id": 206,
@@ -1646,7 +1646,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LOS AUTÉNTICOS DECADENTES",
         "autorReal": "VENÍ RAQUEL (MILEI)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3197s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3197s&autoplay=1"
     },
     {
         "id": 207,
@@ -1654,7 +1654,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "BACILOS",
         "autorReal": "MI PRIMER MILLÓN (BREGMAN)",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3329s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3329s&autoplay=1"
     },
     {
         "id": 208,
@@ -1662,7 +1662,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "UN MILLÓN DE ROSAS (SCHIARETTI)",
         "autorReal": "LA BARRA",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3543s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3543s&autoplay=1"
     },
     {
         "id": 209,
@@ -1670,7 +1670,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "PAISAJE (MASSA)",
         "autorReal": "GILDA",
-        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3770s"
+        "link": "https://www.youtube.com/watch?v=MCPG1yXdlxs&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=13&t=3770s&autoplay=1"
     },
     {
         "id": 210,
@@ -1678,7 +1678,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "ACDC",
         "autorReal": "HIGHWAY TO HELL",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=136s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=136s&autoplay=1"
     },
     {
         "id": 211,
@@ -1686,7 +1686,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "ME HACES TANTO BIEN (MASSA)",
         "autorReal": "AMISTADES PELIGROSAS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=275s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=275s&autoplay=1"
     },
     {
         "id": 212,
@@ -1694,7 +1694,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "ZAMBA DE MI ESPERANZA (MARRA)",
         "autorReal": "LOS CHANCHALEROS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=401s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=401s&autoplay=1"
     },
     {
         "id": 213,
@@ -1702,7 +1702,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "QUÉ VAS A HACER TAN SOLA HOY (MASSA)",
         "autorReal": "VIEJAS LOCAS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=498s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=498s&autoplay=1"
     },
     {
         "id": 214,
@@ -1710,7 +1710,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "RILLI (KICILLOF)",
         "autorReal": "DILLOM",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=609s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=609s&autoplay=1"
     },
     {
         "id": 215,
@@ -1718,7 +1718,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "INOCENTE (MASSA)",
         "autorReal": "LA DELIO VALDÉS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=767s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=767s&autoplay=1"
     },
     {
         "id": 216,
@@ -1726,7 +1726,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "AMORES COMO EL NUESTRO (MASSA)",
         "autorReal": "LOS CHARROS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=890s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=890s&autoplay=1"
     },
     {
         "id": 217,
@@ -1734,7 +1734,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "VOLVIÓ EL MATADOR",
         "autorReal": "CHACHO CASTAÑA",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=996s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=996s&autoplay=1"
     },
     {
         "id": 218,
@@ -1742,7 +1742,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "ELLA DIJO (ESTELARES)",
         "autorReal": "BULLIRCH",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1118s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1118s&autoplay=1"
     },
     {
         "id": 219,
@@ -1750,7 +1750,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "OUKE",
         "autorReal": "CA7RIEL Y PACO AMOROSO",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1257s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1257s&autoplay=1"
     },
     {
         "id": 220,
@@ -1758,7 +1758,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "BIZARRAP MUSIC SESSION (MILEI)",
         "autorReal": "VILLANO ANTILLANO",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1553s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1553s&autoplay=1"
     },
     {
         "id": 221,
@@ -1766,7 +1766,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LAURA NO ESTÁ (MASA)",
         "autorReal": "NEK",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1707s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1707s&autoplay=1"
     },
     {
         "id": 222,
@@ -1774,7 +1774,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "EXPERIENCIA RELIGIOSA (MILEI)",
         "autorReal": "ENRIQUE IGLESIAS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1863s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=1863s&autoplay=1"
     },
     {
         "id": 223,
@@ -1782,7 +1782,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "CUMBIA",
         "autorReal": "BREGMAN",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2035s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2035s&autoplay=1"
     },
     {
         "id": 224,
@@ -1790,7 +1790,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "COMO ALI (MASSA)",
         "autorReal": "LOS PIOJOS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2140s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2140s&autoplay=1"
     },
     {
         "id": 225,
@@ -1798,7 +1798,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "UN BESO Y UNA FLOR (MASSA)",
         "autorReal": "NINO BRAVO",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2253s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2253s&autoplay=1"
     },
     {
         "id": 226,
@@ -1806,7 +1806,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "CABLE A TIERRA",
         "autorReal": "FITO (MASSA) OCTA",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2449s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2449s&autoplay=1"
     },
     {
         "id": 227,
@@ -1814,7 +1814,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "MURGUITA DEL SUR (BULLRICH)",
         "autorReal": "BERSUIT",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2556s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2556s&autoplay=1"
     },
     {
         "id": 228,
@@ -1822,7 +1822,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "JIJIJI (MILEI)",
         "autorReal": "LOS REDONDOS",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2682s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2682s&autoplay=1"
     },
     {
         "id": 229,
@@ -1830,7 +1830,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "OUKE (MASSA)",
         "autorReal": "CA7RIEL Y PACO AMOROSO",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2806s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2806s&autoplay=1"
     },
     {
         "id": 230,
@@ -1838,7 +1838,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "THE FINAL COUNTDOWN (MASSA)",
         "autorReal": "EUROPE",
-        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2985s"
+        "link": "https://www.youtube.com/watch?v=yhfXLNo6XkA&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=12&t=2985s&autoplay=1"
     },
     {
         "id": 231,
@@ -1846,7 +1846,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LA LANZA",
         "autorReal": "BABASÓNICOS",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=188s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=188s&autoplay=1"
     },
     {
         "id": 232,
@@ -1854,7 +1854,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "PELOTUDA",
         "autorReal": "DILLOM",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=318s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=318s&autoplay=1"
     },
     {
         "id": 233,
@@ -1862,7 +1862,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "PORQUE YO TE AMO",
         "autorReal": "SANDRO",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=525s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=525s&autoplay=1"
     },
     {
         "id": 234,
@@ -1870,7 +1870,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LOS DEL ESPACIO",
         "autorReal": "DUKI, EMILIA TIAGO",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=738s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=738s&autoplay=1"
     },
     {
         "id": 235,
@@ -1878,7 +1878,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "TAN SOLO",
         "autorReal": "LOS PIOJOS",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=828s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=828s&autoplay=1"
     },
     {
         "id": 236,
@@ -1886,7 +1886,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LA ARGENTINIDAD AL PALO",
         "autorReal": "LA BERSUIT",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=990s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=990s&autoplay=1"
     },
     {
         "id": 237,
@@ -1894,7 +1894,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "MILEI",
         "autorReal": "BEBITO FIU FIU",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1297s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1297s&autoplay=1"
     },
     {
         "id": 238,
@@ -1902,7 +1902,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "RISA",
         "autorReal": "BABASÓNICOS",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1342s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1342s&autoplay=1"
     },
     {
         "id": 239,
@@ -1910,7 +1910,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "YO NO ME QUIERO CASA",
         "autorReal": "TURF",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1442s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1442s&autoplay=1"
     },
     {
         "id": 240,
@@ -1918,7 +1918,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "RE LOCO",
         "autorReal": "DE LA CALLE",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1594s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1594s&autoplay=1"
     },
     {
         "id": 241,
@@ -1926,7 +1926,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "SE DICE DE MI",
         "autorReal": "TITA MERELLO",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1659s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1659s&autoplay=1"
     },
     {
         "id": 242,
@@ -1934,7 +1934,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "HAY UN PALO EN EL FONDO DE LA MAR",
         "autorReal": "BULLIRCH",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1875s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=1875s&autoplay=1"
     },
     {
         "id": 243,
@@ -1942,7 +1942,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LA INCONDICIONAL",
         "autorReal": "LUIS MIGUEL",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2020s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2020s&autoplay=1"
     },
     {
         "id": 244,
@@ -1950,7 +1950,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "LA MOROCHA",
         "autorReal": "LUCKRA",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2190s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2190s&autoplay=1"
     },
     {
         "id": 245,
@@ -1958,7 +1958,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "EL FANTASMA DE CANTERVILLE",
         "autorReal": "SUI GÉNERIS",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2270s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2270s&autoplay=1"
     },
     {
         "id": 246,
@@ -1966,7 +1966,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "MARY POPPINS Y EL DESHOLLINADOR",
         "autorReal": "FABIANA CANTILO",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2476s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2476s&autoplay=1"
     },
     {
         "id": 247,
@@ -1974,7 +1974,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "FUEGO",
         "autorReal": "INTOXICADOS",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2640s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2640s&autoplay=1"
     },
     {
         "id": 248,
@@ -1982,7 +1982,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "EL TORO Y LA LUNA",
         "autorReal": "GYPSY KINGS",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2855s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2855s&autoplay=1"
     },
     {
         "id": 249,
@@ -1990,7 +1990,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "RARA VEZ",
         "autorReal": "MILO J",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2905s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=2905s&autoplay=1"
     },
     {
         "id": 250,
@@ -1998,7 +1998,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "SOLO SE VIVE UNA VEZ",
         "autorReal": "AZÚCAR MORENO",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=3003s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=3003s&autoplay=1"
     },
     {
         "id": 251,
@@ -2006,7 +2006,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "TUMBAS DE LA GLORIA",
         "autorReal": "FITO PÁEZ",
-        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=3140s"
+        "link": "https://www.youtube.com/watch?v=kzyYXxW2TL8&list=PL5O_usmcHOcfTA31AkPnxPvVNT8Nzksli&index=10&t=3140s&autoplay=1"
     },
     {
         "id": 252,
@@ -2014,7 +2014,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Luz delito",
         "autorReal": "Wos",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=118s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=118s&autoplay=1"
     },
     {
         "id": 253,
@@ -2022,7 +2022,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Los Salieris de Charly",
         "autorReal": "Leon Gieco",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=246s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=246s&autoplay=1"
     },
     {
         "id": 254,
@@ -2030,7 +2030,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Bossa & People",
         "autorReal": "El Kuelgue",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=357s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=357s&autoplay=1"
     },
     {
         "id": 255,
@@ -2038,7 +2038,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Estoy aqui",
         "autorReal": "Shakira",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=485s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=485s&autoplay=1"
     },
     {
         "id": 256,
@@ -2046,7 +2046,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "",
         "autorReal": "Bad Bunny",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=580s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=580s&autoplay=1"
     },
     {
         "id": 257,
@@ -2054,7 +2054,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Legalización",
         "autorReal": "Ska-P",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=723s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=723s&autoplay=1"
     },
     {
         "id": 258,
@@ -2062,7 +2062,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Promesas sobre el Bidet",
         "autorReal": "Charly Garcia",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=860s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=860s&autoplay=1"
     },
     {
         "id": 259,
@@ -2070,7 +2070,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Paisano de Hurlingham",
         "autorReal": "Divididos",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=961s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=961s&autoplay=1"
     },
     {
         "id": 260,
@@ -2078,7 +2078,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Nunca quise",
         "autorReal": "Intoxicados",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1062s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1062s&autoplay=1"
     },
     {
         "id": 261,
@@ -2086,7 +2086,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Loco (Versión metalera)",
         "autorReal": "Los Autenticos Decadentes",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1221s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1221s&autoplay=1"
     },
     {
         "id": 262,
@@ -2094,7 +2094,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Medalla de oro",
         "autorReal": "El mato a un policia motorizado",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1354s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1354s&autoplay=1"
     },
     {
         "id": 263,
@@ -2102,7 +2102,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Sr Cobranza",
         "autorReal": "Las Manos de Filippi",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1460s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1460s&autoplay=1"
     },
     {
         "id": 264,
@@ -2110,7 +2110,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "That's What I Like",
         "autorReal": "Bruno Mars",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1775s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1775s&autoplay=1"
     },
     {
         "id": 265,
@@ -2118,7 +2118,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "No quiero ser tu amigo",
         "autorReal": "César Banana Pueyrredón",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1892s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=1892s&autoplay=1"
     },
     {
         "id": 266,
@@ -2126,7 +2126,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "1, 2, Ultraviolento!",
         "autorReal": "Los Violadores",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2024s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2024s&autoplay=1"
     },
     {
         "id": 267,
@@ -2134,7 +2134,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Bregman",
         "autorReal": "Pity Alvarez",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2164s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2164s&autoplay=1"
     },
     {
         "id": 268,
@@ -2142,7 +2142,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "La rubia tarada",
         "autorReal": "Sumo",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2285s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2285s&autoplay=1"
     },
     {
         "id": 269,
@@ -2150,7 +2150,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Mentía",
         "autorReal": "Miranda",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2444s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2444s&autoplay=1"
     },
     {
         "id": 270,
@@ -2158,7 +2158,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "El Sensei",
         "autorReal": "Las Pastillas del Abuelo",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2535s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2535s&autoplay=1"
     },
     {
         "id": 271,
@@ -2166,7 +2166,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Parque acuatico",
         "autorReal": "El Kuelgue",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2750s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2750s&autoplay=1"
     },
     {
         "id": 272,
@@ -2174,7 +2174,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Bancate ese defecto",
         "autorReal": "Charly Garcia",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2838s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2838s&autoplay=1"
     },
     {
         "id": 273,
@@ -2182,7 +2182,7 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "I Will survive",
         "autorReal": "Gloria Gaynor",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2974s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=2974s&autoplay=1"
     },
     {
         "id": 274,
@@ -2190,6 +2190,6 @@ var jingles = [
         "autorJingle": "",
         "nombreReal": "Asereje",
         "autorReal": "Las Ketchup",
-        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=3113s"
+        "link": "https://www.youtube.com/watch?v=aUEvL-VZC4U&t=3113s&autoplay=1"
     }
-]
+];
